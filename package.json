@@ -1,7 +1,7 @@
 {
   "name": "sh-loopback4-helmet",
-  "version": "2.1.0",
-  "description": "A loopback-next extension for helmetjs",
+  "version": "1.0.0",
+  "description": "A loopback-4 extension for helmetjs",
   "keywords": [
     "loopback-extension",
     "loopback"
@@ -92,6 +92,6 @@
       "@semantic-release/changelog",
       "@semantic-release/git"
     ],
-    "repositoryUrl": "git@github.com:sourcefuse/loopback4-helmet.git"
+    "repositoryUrl": "git@github.com:abhijagtap73/sh-loopback4-helmet.git"
   }
 }
